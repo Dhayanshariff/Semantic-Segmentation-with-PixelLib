@@ -1,0 +1,5 @@
+!pip install pixellib
+!pip install tensorflow==2.6.0
+!pip install keras==2.6.0
+!pip install opencv-python
+!pip install scikit-image
